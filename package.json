@@ -1,0 +1,16 @@
+{
+  "name": "task-cli",
+  "version": "1.0.0",
+  "bin": {
+    "task-cli": "index.ts"
+  },
+  "type": "module",
+  "devDependencies": {
+    "prettier": "3.6.2"
+  },
+  "dependencies": {
+    "@types/node": "^24.2.1",
+    "tsx": "^4.20.4",
+    "typescript": "^5.9.2"
+  }
+}
