@@ -2,7 +2,7 @@
   "name": "task-cli",
   "version": "1.0.0",
   "bin": {
-    "task-cli": "index.ts"
+    "task-cli": "index.js"
   },
   "type": "module",
   "devDependencies": {
@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@types/node": "^24.2.1",
-    "tsx": "^4.20.4",
+    "commander": "^14.0.0",
     "typescript": "^5.9.2"
   }
 }
